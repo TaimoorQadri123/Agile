@@ -1,0 +1,338 @@
+“Ye models kya hotay hain?” — main simple Roman Urdu mein samjha deta hoon.
+SDLC models asal mein software bananay ke tareeqay (methods) hotay hain.
+Har model yeh define karta hai ke:
+
+
+software kis order mein banega
+
+
+planning, design, coding, testing aur delivery kaise hogi
+
+
+client kitna involve hoga
+
+
+changes kitni asaani se accept ki ja sakti hain
+
+
+Different projects ke liye different models suit kartay hain.
+Common SDLC Models (simple explanation)
+
+
+Waterfall Model
+
+
+Step-by-step process (Planning → Design → Development → Testing → Deployment)
+
+
+Ek phase complete ho jaye to next
+
+
+Best jab requirements bilkul clear hon
+
+
+❌ Changes mushkil hotay hain
+
+
+
+
+V-Model
+
+
+Waterfall jaisa, lekin testing har stage ke sath hoti hai
+
+
+Quality-focused projects ke liye acha
+
+
+
+
+Iterative Model
+
+
+Software choti choti iterations mein banta hai
+
+
+Har version improve hota jata hai
+
+
+Jab requirements poori clear na hon
+
+
+
+
+Incremental Model
+
+
+Software parts (increments) mein deliver hota hai
+
+
+Client ko jaldi usable cheez mil jati hai
+
+
+
+
+Agile Model
+
+
+Short cycles (sprints), frequent feedback
+
+
+Client bohat zyada involve hota hai
+
+
+Changes easily handle hotay hain
+
+
+Aaj kal sab se zyada popular
+
+
+
+
+Scrum (Agile ka type)
+
+
+Fixed time sprints (2–4 weeks)
+
+
+Daily meetings, backlog, reviews
+
+
+Fast-moving teams ke liye best
+
+
+
+
+Spiral Model
+
+
+Planning + risk analysis + development
+
+
+Large aur risky projects ke liye
+
+
+Mehnga aur complex hota hai
+
+
+
+
+Prototype Model
+
+
+Pehle demo/prototype banaya jata hai
+
+
+Client feedback ke baad final system
+
+
+Jab client ko khud clear na ho ke kya chahiye
+
+
+
+
+DevOps Model
+
+
+Development + Operations together
+
+
+Continuous integration & deployment
+
+
+Fast releases aur stable systems ke liye
+
+
+
+
+Short mein:
+
+
+Linear models → zyada planning, kam changes (Waterfall)
+
+
+Iterative/Agile models → flexibility, frequent feedback
+
+
+Client involvement left side par kam, right side par zyada hota hai
+
+
+Agar tum chaho, main real-life example se bhi samjha sakta hoon (jaise mobile app ya website project). 😊
+
+
+
+
+Example: Food Delivery Mobile App
+1️⃣ Waterfall Model
+
+Kaise kaam karta hai:
+
+Pehle poori planning (features, design, budget)
+
+Phir development
+
+End mein testing
+
+Last mein app launch
+
+Example:
+Client kehta hai:
+
+“Mujhe yahi features chahiye aur koi change nahi.”
+
+✅ Best jab:
+
+Requirements bilkul clear hon
+
+Government / banking projects
+
+❌ Problem:
+
+Agar end mein client bole “payment method add kar do” → mushkil 😬
+
+2️⃣ Iterative Model
+
+Kaise:
+
+App ka basic version banta hai
+
+Phir improve hota jata hai
+
+Example:
+
+Version 1: Login + menu
+
+Version 2: Cart + order
+
+Version 3: Tracking + rating
+
+✅ Jab client unsure ho
+
+“pehle dikhao, phir decide karen gay”
+
+3️⃣ Incremental Model
+
+Kaise:
+
+App parts mein deliver hoti hai
+
+Example:
+
+Pehla increment: User app
+
+Doosra: Rider app
+
+Teesra: Restaurant dashboard
+
+✅ Client ko jaldi result milta hai
+
+4️⃣ Agile Model (Most popular)
+
+Kaise:
+
+2–3 week ke sprints
+
+Har sprint ke baad client feedback
+
+Example Sprint:
+
+Sprint 1: Login + signup
+
+Sprint 2: Order system
+
+Sprint 3: Payment + tracking
+
+Client kehta:
+
+“Button ka color change karo”
+
+Team:
+
+“Next sprint mein ho jayega 👍”
+
+✅ Best for startups & changing ideas
+
+5️⃣ Scrum Model (Agile ka bhai 😄)
+
+Extra cheezen:
+
+Daily stand-up meeting
+
+Product backlog
+
+Sprint review
+
+Example:
+
+Roz 15 min meeting:
+
+Kal kya kiya?
+
+Aaj kya karna?
+
+Koi issue?
+
+6️⃣ Prototype Model
+
+Kaise:
+
+Pehle fake app demo (clickable design)
+
+Client feedback
+
+Phir real development
+
+Example:
+
+Client: “Oh! mujhe yeh flow pasand nahi”
+
+Team: “No issue, change kar dete hain”
+
+✅ Jab client ko khud idea clear na ho
+
+7️⃣ Spiral Model
+
+Kaise:
+
+Planning → Risk check → Development
+
+Repeat hota rehta hai
+
+Example:
+
+Payment system risky → pehle test
+
+Data security check
+
+✅ Large & risky apps (banking, fintech)
+
+8️⃣ DevOps Model
+
+Kaise:
+
+Development + Deployment together
+
+App updates frequently live
+
+Example:
+
+Bug fix today → update same day 😎
+
+✅ Companies like:
+
+Amazon
+
+Netflix
+
+🧠 Simple yaad rakhne ka rule:
+
+Fixed requirements → Waterfall
+
+Changing ideas → Agile / Scrum
+
+Risky system → Spiral
+
+Fast delivery → DevOps
+
+Client confused → Prototype
+
